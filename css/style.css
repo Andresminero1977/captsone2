@@ -1,0 +1,71 @@
+
+h1 {
+    margin: 0;
+}
+
+h2 {
+    margin: 0;
+}
+
+h3 {
+    margin: 0;
+}
+
+p {
+    margin: 0;
+}
+
+.logo {
+    display: flex;
+    background-color: #27374D;
+    color: #9DB2BF;
+}
+
+.resumen {
+    display: flex;
+}
+
+.skills {
+
+}
+
+.skills_info {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    grid-template-rows: 1fr 1fr;
+}
+
+.skills_info_azul {
+    color: #DDE6ED;
+    background-color: #526D82;
+}
+
+.intereses {
+
+}
+
+.Intereses_info {
+    display: flex;
+}
+
+.btn_contacto {
+    background-color: #27374D;
+    color: #9DB2BF;
+    height: 3rem;
+    margin: 0;
+    padding: 0;
+}
+
+.footer {
+    background-color: #27374D;
+}
+
+.footer_info {
+    display: flex;
+    flex-direction: column;
+    color: #9DB2BF;
+}
+
+.footer_opciones {
+    display: flex;
+}
